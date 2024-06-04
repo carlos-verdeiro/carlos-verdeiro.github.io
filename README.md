@@ -1,3 +1,3 @@
-# Portifolio
+# Portfolio
 
-Meu portifólio
+Meu portfólio
